@@ -4,11 +4,11 @@ created as a final project for a bioinformatics course.
 It is meant to be a simple, crude approximation of
 the popular tool TopHat, hence the name BaseballCap (a "poor man's TopHat")
 
-**Required:** Java 7
-**recommended:** make
+Required: Java 7
+recommended: make
 
 To clean everything up:
-`make clean`
+make clean
 
 To compile code:
 make
