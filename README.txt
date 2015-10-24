@@ -1,7 +1,6 @@
 BaseballCap is an RNA-seq Junction Read Aligner based on the
-Burrow-Wheeler Transform (BWT) with Last-First (LF) mapping,
-created as a final project for a bioinformatics course.
-It is meant to be a simple, crude approximation of
+Burrow-Wheeler Transform (BWT), created as a final project
+for a bioinformatics course. It is meant to be a simple, crude approximation of
 the popular tool TopHat, hence the name BaseballCap (a "poor man's TopHat")
 
 Required: Java 7
